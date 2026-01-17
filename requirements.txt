@@ -1,3 +1,4 @@
 pandas
 numpy
 datasets
+scikit-learn
