@@ -18,3 +18,5 @@ EOF
 
 # Otros
 ignorar/
+# Data files
+data/*.parquet
