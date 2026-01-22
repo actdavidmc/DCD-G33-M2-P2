@@ -3,3 +3,4 @@ numpy
 datasets
 scikit-learn
 matplotlib
+textblob
